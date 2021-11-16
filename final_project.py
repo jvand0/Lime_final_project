@@ -22,6 +22,8 @@ import random
 
 def section(radius):
   """
+  Ethan D. section
+
   determines what section the dart landed in
   radius = 100 in
   diameter = 200 in
