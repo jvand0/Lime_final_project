@@ -12,6 +12,7 @@ class Arrow:
       vert_angle (int): the archer's bow vertical angle
       horiz_angle (int): the archer's bow horizontal angle
       power (int): how powerful the archer makes the shot
+      bow_type (str): the type of bow the archer uses
       speed (int): the wind's speed
       direction (str): the wind's direction
     """
