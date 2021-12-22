@@ -15,7 +15,7 @@ class Arrow:
       speed (int): the wind's speed
       direction (str): the wind's direction
     """
-    def __init__(self, distance, vert_angle, horiz_angle, power, new_power, bow_type, speed=random.randint(0,30), direction = random.choice(directions)):
+    def __init__(self, distance, vert_angle, horiz_angle, power, bow_type, speed=random.randint(0,30), direction = random.choice(directions)):
         self.vert_angle = vert_angle
         self.horiz_angle = horiz_angle
         self.power = power
