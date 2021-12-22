@@ -2,7 +2,7 @@
 INST326 Final Project for Group Lime
 
 The only script needed to run for this project is limefinalproject.py.
-To run this file from the command line you can type python limefinalproject.py for Windows or python3 limefinalproject.py for Mac
+To run this file from the command line you can type python limefinalproject.py for Windows or python3 limefinalproject.py for Mac.
 The output of the program is created using print statements that will tell you the outcome of the game between two players. The program
 will ask you to input information while it is running.
 
