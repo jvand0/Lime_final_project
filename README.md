@@ -8,7 +8,10 @@ will ask you to input information while it is running.
 
 Primary Authors
 
-Arrow class: __init__, shot, gravity - Ethan P.
-Arrow class: wind method - Ike
-Round class: __init__, section - Ethan D.
+Arrow class: __init__, shot, gravity - Ethan P.  
+
+Arrow class: wind method - Ike  
+
+Round class: __init__, section - Ethan D.  
+
 Game class, main - James
